@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m dongab, a algorithm engineer in the field of artificial intelligence.
+- 😄 I’m interested in **Everything**
+- :star: Blog：https://blog.csdn.net/mdong9
+
 
 <!--
 **dongabing/dongabing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
